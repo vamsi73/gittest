@@ -11,6 +11,11 @@ public class Test {
 		System.out.println("git app me changed ");
 	 
 		}
+	
+	public void m3() {
+		System.out.println("git app m3 changed ");
+	 
+		}
 		
 	
 	
