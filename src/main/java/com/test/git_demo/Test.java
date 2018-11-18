@@ -16,6 +16,11 @@ public class Test {
 		System.out.println("git app m3 changed ");
 	 
 		}
+	
+	public void m4() {
+		System.out.println("git app m4 changed ");
+	 
+		}
 		
 	
 	
